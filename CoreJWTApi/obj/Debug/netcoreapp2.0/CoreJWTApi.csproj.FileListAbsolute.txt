@@ -1,0 +1,11 @@
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\bin\Debug\netcoreapp2.0\CoreJWTApi.deps.json
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\bin\Debug\netcoreapp2.0\CoreJWTApi.runtimeconfig.json
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\bin\Debug\netcoreapp2.0\CoreJWTApi.runtimeconfig.dev.json
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\bin\Debug\netcoreapp2.0\CoreJWTApi.dll
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\obj\Debug\netcoreapp2.0\CoreJWTApi.csprojResolveAssemblyReference.cache
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\obj\Debug\netcoreapp2.0\CoreJWTApi.csproj.CoreCompileInputs.cache
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\obj\Debug\netcoreapp2.0\CoreJWTApi.AssemblyInfoInputs.cache
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\obj\Debug\netcoreapp2.0\CoreJWTApi.AssemblyInfo.cs
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\bin\Debug\netcoreapp2.0\CoreJWTApi.pdb
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\obj\Debug\netcoreapp2.0\CoreJWTApi.dll
+E:\Anil\Samples\CoreJWTApi\CoreJWTApi\obj\Debug\netcoreapp2.0\CoreJWTApi.pdb
